@@ -11,4 +11,7 @@ dolares = pesos / valor_dolar
 dolares = round(dolares, 2)
 dolares = str(dolares)
 #para que salga un texto
-print(dolares)
+print("usted  tiene $"+ dolares +" dolares")
+# ++ concanetacion
+
+#tarea programa que transforma de dolares a pesos chilenos

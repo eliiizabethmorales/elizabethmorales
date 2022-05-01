@@ -7,16 +7,16 @@
 
 #solucion 1:
 
-# payasos = int(input("hola, cuantos payasos enviara?:"))
-# muneca = int(input("cuantas muñecas enviara?:"))
-# if payasos and muneca >= 0 :
-#     pesopayaso = payasos * 112
-#     pesomuneca = muneca * 75
-#     valorenvio = pesopayaso + pesomuneca
-#     valorenvio = str(valorenvio)
-#     print("el valor del envio sera $" + valorenvio +" ")
-# else: 
-#     print("ingrese un valor entero o un numero positivo")
+payasos = int(input("hola, cuantos payasos enviara?:"))
+muneca = int(input("cuantas muñecas enviara?:"))
+if payasos and muneca >= 0 :
+    pesopayaso = payasos * 112
+    pesomuneca = muneca * 75
+    valorenvio = pesopayaso + pesomuneca
+    valorenvio = str(valorenvio)
+    print("el valor del envio sera $" + valorenvio +" ")
+else: 
+    print("ingrese un valor entero o un numero positivo")
  
 
 

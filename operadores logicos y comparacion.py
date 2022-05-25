@@ -31,3 +31,6 @@ print(numero1 < numero3)
 #para saber si es mayor igual
 print(numero1 >= numero3)
 print(numero1 <= numero2)
+
+
+#tarea transformar de pesos chilenos a dolares

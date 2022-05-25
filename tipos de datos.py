@@ -60,4 +60,5 @@ print(numero1 + numero2)
 numero_decimal = 4.5
 print(int(numero_decimal))
 
+# "4.5"
 print(str(numero_decimal))

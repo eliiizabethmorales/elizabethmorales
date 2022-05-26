@@ -5,11 +5,11 @@
 
 #solucion 1 ( mia) 
 
-# nombre = input("ingrese un nombre al azar")
-# nombre = str(nombre)
+nombre = input("ingrese un nombre al azar")
+nombre = str(nombre)
 
-# numero = int(input ("ahora ingrese un numero al azar"))
-# print (" "+ nombre * numero + "")
+numero = int(input ("ahora ingrese un numero al azar"))
+print (" "+ nombre * numero + "")
 
 #input es para trabajar con texto 
 #int para trabajar con numeros enteros
